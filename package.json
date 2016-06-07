@@ -1,0 +1,21 @@
+{
+  "name": "wegbot-discord",
+  "version": "1.2.1",
+  "description": "Discord bot for private use. Plays audio clips.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon -x \"./run.sh\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaoticWeg/wegbot-discord.git"
+  },
+  "author": "ChaoticWeg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaoticWeg/wegbot-discord/issues"
+  },
+  "homepage": "https://github.com/ChaoticWeg/wegbot-discord#readme"
+}
