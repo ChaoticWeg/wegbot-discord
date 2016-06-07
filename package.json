@@ -3,7 +3,9 @@
   "version": "1.2.1",
   "description": "Discord bot for private use. Plays audio clips.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "discord.js": "^7.0.1"
+  },
   "devDependencies": {
     "nodemon": "^1.9.2"
   },
