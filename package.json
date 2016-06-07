@@ -4,7 +4,8 @@
   "description": "Discord bot for private use. Plays audio clips.",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^7.0.1"
+    "discord.js": "^7.0.1",
+    "node-uuid": "^1.4.7"
   },
   "devDependencies": {
     "nodemon": "^1.9.2"
