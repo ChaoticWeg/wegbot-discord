@@ -34,5 +34,4 @@ node_modules
 
 # Private launch file, for personal use only
 run.sh
-lib/discord/creds.js
 nodemon.json
